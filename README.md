@@ -1,1 +1,1 @@
-# certificate-verifyer-pro
+# WordPress Certificate Verifyer Pro
