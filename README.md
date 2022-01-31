@@ -1,1 +1,1 @@
-# WordPress Certificate Verifyer Pro
+# WordPress Certificate Verifyer Free
