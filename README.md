@@ -1,3 +1,3 @@
 # WordPress Certificate Verifyer Free
 
-coming update 👍
+visit our website https://devsecit.com for more updates 
